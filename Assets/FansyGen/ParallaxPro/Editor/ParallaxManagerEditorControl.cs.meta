@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 24dbdbaf23f243b4dae978818f4f3798
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parallaxData: {fileID: 11400000, guid: 8141cd5df63e21d47a083aa9f7d63776, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
