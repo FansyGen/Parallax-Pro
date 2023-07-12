@@ -1,6 +1,8 @@
 # Parallax-Pro
-Description: Our Parallax Background Tool is a powerful extension for Unity 2D that allows you to create visually stunning parallax effects in your games. The package provides customizable content, including the ability to define the parallax direction, layer speeds, and layering order. This versatility makes it suitable for a wide range of game genres, such as side-scrolling games, platformers, endless runners, top-down games, interactive storytelling, and more. Elevate your game's visuals and create captivating backgrounds with ease using our Parallax Background Tool.
-Key features: Key features of the Parallax Background Tool package include:
+# Description: 
+Our Parallax Background Tool is a powerful extension for Unity 2D that allows you to create visually stunning parallax effects in your games. The package provides customizable content, including the ability to define the parallax direction, layer speeds, and layering order. This versatility makes it suitable for a wide range of game genres, such as side-scrolling games, platformers, endless runners, top-down games, interactive storytelling, and more. Elevate your game's visuals and create captivating backgrounds with ease using our Parallax Background Tool.
+# Key features:
+Key features of the Parallax Background Tool package include:
 
 1. Parallax Direction Control: Choose between horizontal or vertical parallax direction to suit your game's requirements.
 
